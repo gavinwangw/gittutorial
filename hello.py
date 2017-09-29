@@ -1,3 +1,4 @@
 # this project print hello
 
-print ("hello python!")
+name = "3250 tutorial"
+print ("hello",name)
